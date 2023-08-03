@@ -16,7 +16,7 @@ name, last name, email address, phone no, why you need the laptop)
    * user controller
 2)  Database
 3)  Middleware-
-   *jwt
+    *jwt
 5)  Model-
    *userSchema
 6) Routes-
