@@ -15,11 +15,11 @@ name, last name, email address, phone no, why you need the laptop)
    * Admin controller
    * user controller
 2)  Database
-3)  Middleware-
+3)  Middleware -
     *jwt
-5)  Model-
+5)  Model -
    *userSchema
-6) Routes-
+6) Routes -
    *userRoutes
    *AdminRoutes
     
